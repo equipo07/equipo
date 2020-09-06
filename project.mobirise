@@ -60,7 +60,7 @@
     "uniqCompNum": 16,
     "versionPublish": "5.0.29",
     "screenshot": "screenshot.png",
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/simbolo-128x90.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
